@@ -1,10 +1,10 @@
 # CMRIT 2025 Batch AutoUpdating Leaderboard.
 
-[![Java CI with Gradle](https://github.com/gabyah92/CMRIT2025Leaderboard/actions/workflows/gradle.yml/badge.svg)](https://github.com/gabyah92/CMRIT2025Leaderboard/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/dog-broad/CMRIT2025Leaderboard/actions/workflows/gradle.yml/badge.svg)](https://github.com/dog-broad/CMRIT2025Leaderboard/actions/workflows/gradle.yml)
 
 **The autoupdating leaderboard of CMR Institute of Technology, 2025 batch.**
 
-**The scores of CMRIT 2025 Batch will automatically be mapped at https://gabyah92.github.io/CMRIT2025Leaderboard/ based on usernames from https://tinyurl.com/2025-CODING-USERNAMES**
+**The scores of CMRIT 2025 Batch will automatically be mapped at https://dog-broad.github.io/CMRIT2025Leaderboard/ based on usernames from https://tinyurl.com/2025-CODING-USERNAMES**
 
 **Many thanks to [Rushyendra(21r01a67e6)](https://github.com/dog-broad) for his contributions on this projects UI and Yaml!**
 
@@ -55,10 +55,10 @@ This section guides you through the steps required to set up and run the project
 * **Git Clone:**  Begin by cloning this repository to your local development environment using the following command in your terminal:
 
 ```bash
-git clone https://github.com/gabyah92/CMRITLeaderboard2025.git
+git clone https://github.com/dog-broad/CMRITLeaderboard2025.git
 ```
 
-If you have forked the Repo, replace `gabyah92` with your actual GitHub username. This will download the project's source code to your local machine.
+If you have forked the Repo, replace `dog-broad` with your actual GitHub username. This will download the project's source code to your local machine.
 
 **2. Gradle Installation:**
 
