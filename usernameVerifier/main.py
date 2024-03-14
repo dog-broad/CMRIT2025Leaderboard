@@ -243,8 +243,10 @@ def process_leetcode(participants):
     login = driver.find_element(By.NAME, "login")
     password = driver.find_element(By.NAME, "password")
     signin_btn = driver.find_element(By.NAME, "commit")
-    username = "rushi12565@gmail.com"
-    passwd = "ruchitha*9"
+    # load username from USERNAME environment variable
+    username = os.environ.get('USERNAME')
+    # load password from PASSWORD environment variable
+    passwd = os.environ.get('PASSWD')
     login.send_keys(username)
     password.send_keys(passwd)
     signin_btn.click()
